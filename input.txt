@@ -1,0 +1,2 @@
+# TAG, Timestamp, Duration(seconds), URL
+rick,00:00:42,9,https://www.youtube.com/watch?v=dQw4w9WgXcQ
