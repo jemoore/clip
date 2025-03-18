@@ -29,7 +29,7 @@ The tag should match the name passed to the application and indicates the clip t
 - Add an option to not permanently store generated clips
 
 ## Dependencies
-This application calls several external applications to perm tasks:
+This application calls several external applications to perform tasks:
 - yt-dlp - to download the youtube video to clip
 - ffmpeg - to extract a portion of the video
 - ffplay - to play the video clip
